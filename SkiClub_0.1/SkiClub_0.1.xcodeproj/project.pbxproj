@@ -13,6 +13,10 @@
 		0A59CF57295367A800874490 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A59CF56295367A800874490 /* homePage.swift */; };
 		0A59CF5A295392B800874490 /* userModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A59CF59295392B800874490 /* userModel.swift */; };
 		0A59CF5C295393A000874490 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A59CF5B295393A000874490 /* Network.swift */; };
+		0A5D5D162953F9EF0021BC78 /* navBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5D5D152953F9EF0021BC78 /* navBar.swift */; };
+		0A5D5D182953FA1B0021BC78 /* tripInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5D5D172953FA1B0021BC78 /* tripInfo.swift */; };
+		0A5D5D1A2953FA300021BC78 /* clubInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5D5D192953FA300021BC78 /* clubInfo.swift */; };
+		0A5D5D1C2953FA380021BC78 /* settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5D5D1B2953FA380021BC78 /* settings.swift */; };
 		0AE5C42F29523A9500EE2588 /* SkiClub_0_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE5C42E29523A9500EE2588 /* SkiClub_0_1App.swift */; };
 		0AE5C43129523A9500EE2588 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE5C43029523A9500EE2588 /* ContentView.swift */; };
 		0AE5C43329523A9700EE2588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AE5C43229523A9700EE2588 /* Assets.xcassets */; };
@@ -45,6 +49,10 @@
 		0A59CF56295367A800874490 /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
 		0A59CF59295392B800874490 /* userModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userModel.swift; sourceTree = "<group>"; };
 		0A59CF5B295393A000874490 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		0A5D5D152953F9EF0021BC78 /* navBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navBar.swift; sourceTree = "<group>"; };
+		0A5D5D172953FA1B0021BC78 /* tripInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tripInfo.swift; sourceTree = "<group>"; };
+		0A5D5D192953FA300021BC78 /* clubInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clubInfo.swift; sourceTree = "<group>"; };
+		0A5D5D1B2953FA380021BC78 /* settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settings.swift; sourceTree = "<group>"; };
 		0AE5C42B29523A9500EE2588 /* SkiClub_0.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkiClub_0.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AE5C42E29523A9500EE2588 /* SkiClub_0_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiClub_0_1App.swift; sourceTree = "<group>"; };
 		0AE5C43029523A9500EE2588 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +126,10 @@
 				0AE5C42E29523A9500EE2588 /* SkiClub_0_1App.swift */,
 				0A59CF522953678600874490 /* loginPage.swift */,
 				0A59CF56295367A800874490 /* homePage.swift */,
+				0A5D5D152953F9EF0021BC78 /* navBar.swift */,
+				0A5D5D1B2953FA380021BC78 /* settings.swift */,
+				0A5D5D192953FA300021BC78 /* clubInfo.swift */,
+				0A5D5D172953FA1B0021BC78 /* tripInfo.swift */,
 				0AE5C43029523A9500EE2588 /* ContentView.swift */,
 				0A59CF59295392B800874490 /* userModel.swift */,
 				0A59CF5B295393A000874490 /* Network.swift */,
@@ -294,8 +306,12 @@
 				0AE5C42F29523A9500EE2588 /* SkiClub_0_1App.swift in Sources */,
 				0A59CF5C295393A000874490 /* Network.swift in Sources */,
 				0A59CF5A295392B800874490 /* userModel.swift in Sources */,
+				0A5D5D1C2953FA380021BC78 /* settings.swift in Sources */,
+				0A5D5D182953FA1B0021BC78 /* tripInfo.swift in Sources */,
 				0A59CF532953678600874490 /* loginPage.swift in Sources */,
+				0A5D5D162953F9EF0021BC78 /* navBar.swift in Sources */,
 				0A59CF57295367A800874490 /* homePage.swift in Sources */,
+				0A5D5D1A2953FA300021BC78 /* clubInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

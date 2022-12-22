@@ -12,7 +12,18 @@ struct Response: Codable {
 }
 
 struct Items: Codable {
+    
+    //Member ID
     var id: String
+    
+    //DOB
     var field_75: String
+    
+    //Grade Level
     var field_62: String
+    
+    //email
+    var field_63: String
+    
+    
 }
