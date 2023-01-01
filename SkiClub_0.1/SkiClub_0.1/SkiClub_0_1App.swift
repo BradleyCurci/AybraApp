@@ -38,7 +38,8 @@ struct SkiClub_0_1App: App {
                         }
                     }
                 }
-                .environmentObject(network)
+            .environmentObject(network)
+            
         }
     }
 }

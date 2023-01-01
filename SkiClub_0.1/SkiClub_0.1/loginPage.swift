@@ -64,7 +64,7 @@ struct loginPage: View {
                 
             }
             
-            Text("Please sign in with your school issued email address.")
+            Text("Please sign in with the same email that was used to sign up.")
                 .font(.subheadline)
                 .fontWeight(.medium)
                 .padding(.bottom, 25)
